@@ -1,12 +1,10 @@
 topnav:
 - url: /
-  title: Home
+  title: Strona główna
 - url: /about
-  title: About
+  title: O klubach wiedzy
 - url: /facilitate
-  title: Facilitate
-
+  title: Moderowanie
 org:
-    url: https://hog.warts/
-    logo_url: /assets/img/team-logo.png
-
+  url: https://hog.warts/
+  logo_url: /assets/img/team-logo.png

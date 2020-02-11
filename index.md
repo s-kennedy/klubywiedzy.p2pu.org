@@ -1,13 +1,15 @@
 ---
 layout: index
-header_text: P2PU & the Ministry of Magic
+header_text: P2PU & FRSI
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
-hero: |
-  ## Learning circles are coming to Hogwarts!
+hero: 'Xx
 
-  Join your neighbors at the library to learn something together. Learning circles meet weekly for 6-8 weeks, and are free to join.
-search_title: Learning circles at Hogwarts
-image_attribution: "image CC-BY-SA [Breakfast221](https://commons.wikimedia.org/wiki/User:Breakfast221)"
+
+  Dołącz do klubu wiedzy w bibliotece! Przyjdź, spotkaj znajomych, poznaj nowe osoby
+  i razem nauczcie się czegoś przydatnego! Spotkania odbywają się raz w tygodniu przez
+  6-8 tygodni. Zapraszamy.'
+search_title: Klub Wiedzy w Hogwarcie
+image_attribution: ''
 bundles:
 - style
 - index
