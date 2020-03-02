@@ -1,6 +1,8 @@
 ---
-title: Courses
-description: These are free, online courses that the P2PU community uses to facilitate learning circles. If you can't find what you're looking for, you can [add an online course](https://learningcircles.p2pu.org/en/course/create/) to the database or create your own.
+title: Kursy
+description: Na tej stronie udostępniamy zasoby edukacyjne wykorzystywane przez moderatorów
+  klubów wiedzy. Jeśli kursy na tematy, które Cię interesują, nie są dostępne, możesz
+  dodać do bazy nowy kurs lub stworzyć swój własny.
 layout: courses
 bundles:
 - style

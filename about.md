@@ -1,52 +1,94 @@
 ---
-title: About
-about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
-faq_title: Frequently asked questions
+title: O klubach wiedzy
+about: Pierwsze biblioteczne kluby wiedzy powstały w 2015 r. w Bibliotece Publicznej
+  w Chicago z inicjatywy amerykańskiej organizacji non-profit Peer 2 Peer University
+  (P2PU). Od tego czasu model "klubowego" uczenia się rozpowszechnił się w bibliotekach
+  oraz innych lokalnych instytucjach i organizacjach w różnych krajach Ameryki Północnej,
+  Afryki Wschodniej i Europy. W 2020 roku, dzięki współpracy Fundacji Rozwoju Społeczeństwa
+  Informacyjnego z Peer 2 Peer University oraz wsparciu finansowemu Unii Europejskiej
+  w ramach programu Erasmus+, kluby wiedzy powstaną także w polskich bibliotekach.
+faq_title: Często zadawane pytania
 faq:
-- q: What is a learning circle?
-  a: |
-        A learning circle is a group of people who meet to learn something together. Learning circles are:
-        - Open to the public
-        - Free for participants
-        - Recurring (generally between 6-8 times)
-        
-        Additionally, learning circles are led by a facilitator, rather than a teacher. This means that the person who is organizing your learning circle is not an expert in the subject that you are learning. They are there to help guide the group through the course and ensure that the meeting space is ready each week.
+- q: Co to jest klub wiedzy?
+  a: 'Klub wiedzy to grupa osób, które spotykają się regularnie po to, by wspólnie
+    się czegoś uczyć.
 
-- q: What learning materials can be used in learning circles?
-  a: |
-    Most learning circles use a free, online course as the basis of study. While P2PU creates some courses, the vast majority of materials come from other organizations around the web. You are welcome to use any course you would like for a learning circle, so long as it is free for participants and not in violation of the terms of service of the course provider. A complete list of courses currently being used by learning circle facilitators is available at https://www.p2pu.org/courses/
+    Kluby wiedzy są:
 
-- q: What personal information do I need to provide to participate?
-  a: |
-    Learning circle participants do not need to create an account with Peer 2 Peer University. You can sign up for a learning circle with your name and phone number and/or email address. This information is only used by your facilitator to contact you. If you would like to create a learning circle, then you need to create a P2PU account. Additional questions related to user privacy can be answered by contacting support@p2pu.org.
-
-- q: Does it cost money to participate in a learning circle?
-  a: No, learning circles are free to participate in.
+    otwarte dla wszystkich zainteresowanych,
 
 
-- q: Do I get any certificate at the end of the learning circle?
-  a: P2PU is not a university and does not offer any accredited degree certificates. Some of the online courses that are used in learning circles have degree and/or certificates, but many of these are not free. If you would like a certificate demonstrating the completion of your learning circle, this is possible if you speak with your facilitator.
-
-- q: What is Peer 2 Peer University?
-  a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
-
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
+    nieodpłatne,
 
 
-- q: Can anybody start and facilitate a learning circle?
-  a: |
-    Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
+    cykliczne (uczestnicy kluby spotykają się zazwyczaj 6-8 razy).
 
+
+
+    Spotkania klubów prowadzą moderatorzy, którzy nie są nauczycielami. Zwykle nie
+    posiadają oni specjalistycznej wiedzy z dziedzin, o których jest mowa na spotkaniach.
+    Pełnią rolę przewodników po zasobach wiedzy, wspierają uczestników klubów wiedzy
+    i przygotowują miejsce na spotkania.'
+- q: Z jakich materiałów można korzystać w klubach wiedzy?
+  a: Kluby wykorzystują przede wszystkim bezpłatne kursy online. Niektóre zasoby przygotowuje
+    Peer 2 Peer University, lecz zdecydowana większość materiałów pochodzi z internetu.
+    Można skorzystać z dowolnych zasobów edukacyjnych, o ile będą one dostępne dla
+    uczestników nieodpłatnie, a korzystanie z nich będzie zgodne z prawem i zasadami
+    ich udostępniania.
+- q: ''
+  a: Uczestnicy klubu wiedzy nie muszą tworzyć konta na platformie Peer 2 Peer University.
+    Wystarczy się zarejestrować na spotkania danego klubu, podając imię, nazwisko,
+    numer telefonu i/lub adres e-mail. Powyższe dane zbierane są w celu umożliwienia
+    moderatorom kontaktu z uczestnikami. Konto Peer 2 Peer University jest niezbędne
+    w przypadku, gdy chcemy założyć klub wiedzy.
+- q: Czy uczestnictwo w spotkaniach klubu wiedzy wiąże się z jakimikolwiek opłatami?
+  a: Nie. Kluby wiedzy są dla uczestników bezpłatne.
+- q: Czy po ukończeniu cyklu spotkań uczestnicy otrzymają certyfikaty?
+  a: Ani Peer 2 Peer University, ani partnerzy projektu nie wydają certyfikatów uczestnictwa
+    w kursach i spotkaniach klubów wiedzy. W przypadku kursów, z których korzystają
+    kluby wiedzy, istnieje czasem możliwość otrzymania certyfikatu, jednak takie certyfikaty
+    zazwyczaj są odpłatne. Jeśli potrzebujesz potwierdzenia udziału w spotkaniach
+    swojego klubu wiedzy, skontaktuj się z moderatorem.
+- q: Co to jest Peer 2 Peer University?
+  a: 'Peer 2 Peer University to organizacja non-profit, której siedziba znajduje się
+    w Kalifornii w Stanach Zjednoczonych, a członkowie zespołu pracują w różnych krajach:
+    w USA, Kanadzie i Republice Południowej Afryki. Misją P2PU jest stwarzanie możliwości
+    edukacyjnych dostępnych dla wszystkich zainteresowanych, jako alternatywy dla
+    podstawowej oferty szkolnictwa wyższego.'
+- q: ''
+  a: ''
+- q: Czego dotyczy projekt “Learning Circles in Libraries”?
+  a: '"Learning Circles in Libraries" (Kluby wiedzy w bibliotekach) to 3-letni projekt
+    finansowany ze środków Unii Europejskiej w ramach programu Erasmus+ Akcja 2: Partnerstwa
+    strategiczne/Edukacja dorosłych). FRSI jest liderem projektu, a naszymi partnerami
+    są: Peer 2 Peer University (Stany Zjednoczone), Stadt Kőln (Niemcy), Fundatia
+    Progress (Rumunia), Biblioteca Lucio Craveiro da Silva (Portugalia) oraz Suomen
+    eOppimiskeskus ry (Finlandia).
+
+
+    Celem projektu jest ułatwienie osobom dorosłym dostępu do przydatnych treści online,
+    wsparcie w zdobywaniu wiedzy oraz doskonaleniu umiejętności uczenia się przez
+    całe życie, z wykorzystaniem metodologii "learning circles" stworzonej przez P2PU.
+
+    W ramach projektu:
+
+
+    - przeprowadzamy badania i przygotowujemy zasoby edukacyjne, które zostaną udostępnione
+    w językach wszystkich partnerów projektu,
+
+
+    - upowszechniamy metodologię “klubów wiedzy”,
+
+
+    - przygotowujemy ekspertów, którzy przeszkolą moderatorów klubów wiedzy,
+
+
+    - przeprowadzamy szkolenia dla moderatorów, którzy będą prowadzić w bibliotekach
+    kluby wiedzy.'
+- q: Kto może założyć klub wiedzy i prowadzić spotkania?
+  a: Każdy! Utworzenie klubu wiedzy nie wiąże się z żadnymi opłatami.Wystarczy założyć
+    konto na platformie P2PU. Przygotowujemy zasoby edukacyjne dla moderatorów, które
+    będą udostępniane w języku polskim na tej stronie.
 layout: about
 bundles:
 - style

@@ -1,20 +1,13 @@
 socials:
-  - text: Instagram
-    url: https://www.instagram.com/p2puniversity/
-    icon_class: fa fa-instagram
-  - text: Twitter
-    url: https://twitter.com/p2pu
-    icon_class: fa fa-twitter
-  - text: Facebook
-    url: https://www.facebook.com/P2PUniversity
-    icon_class: fa fa-facebook
-license: Unless otherwise noted, all the materials on this site are licensed under CC BY-SA 4.0.
-about_orgs: P2PU is a U.S. 501(c)3 registered in California.
-tos: 
-    title: Terms of Service
-    url: https://www.p2pu.org/en/terms/
-privacy: 
-    title: Privacy Policy
-    url: https://www.p2pu.org/en/privacy/
-
-
+- text: Facebook
+  url: https://www.facebook.com/biblioteki/
+  icon_class: fa fa-facebook
+license: O ile nie jest to stwierdzone inaczej, materiały opublikowane na tej stronie
+  są dostępne na licencji Creative Commons CC BY-SA 4.0.
+about_orgs: P2PU jest organizacją non-profit zarejestrowaną w Kaliforni, USA.
+tos:
+  title: Zasady korzystania
+  url: https://www.p2pu.org/en/terms/
+privacy:
+  title: Polityka prywatności
+  url: https://www.p2pu.org/en/privacy/
