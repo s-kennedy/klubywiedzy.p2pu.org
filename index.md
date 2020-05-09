@@ -1,5 +1,7 @@
 ---
 layout: index
+header: hero_header.html
+header_image: landing-banner.jpg
 header_text: P2PU & FRSI
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: 'Kluby wiedzy w polskich bibliotekach!
